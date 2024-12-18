@@ -15,7 +15,7 @@ This repository contains an implementation of the **VGG19** architecture, a high
 ### VGG19
 - **Key Features**:
   - 19 layers deep (16 convolutional layers and 3 fully connected layers).
-  - Uses small \(3 \times 3\) convolutional filters.
+  - Uses small $$3 \times 3$$ convolutional filters.
   - Employs ReLU activation and max-pooling for feature extraction.
 - **Common Applications**:
   - Image classification tasks.
