@@ -29,7 +29,7 @@ This repository contains an implementation of the **GoogleNet** architecture, a 
 To get started, clone this repository using the following command:
 ```bash
 git clone https://github.com/Amirreza-Bazmi/googlenet-project.git
-cd googlenet-project
+cd googlenet-project/GoogleNet.ipynb
 ```
 
 ### Open and Run `GoogleNet.ipynb`
