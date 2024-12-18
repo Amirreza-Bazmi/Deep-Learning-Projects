@@ -29,7 +29,7 @@ This repository contains an implementation of the **VGG19** architecture, a high
 To get started, clone this repository using the following command:
 ```bash
 git clone https://github.com/Amirreza-Bazmi/vgg19-project.git
-cd vgg19-project
+cd vgg19-project/vgg_19.ipynb
 ```
 
 ### Open and Run `vgg_19.ipynb`
