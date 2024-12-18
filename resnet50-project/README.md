@@ -30,7 +30,7 @@ This repository contains an implementation of the **ResNet50** architecture, a d
 To get started, clone this repository using the following command:
 ```bash
 git clone https://github.com/Amirreza-Bazmi/resnet50-project.git
-cd resnet50-project
+cd resnet50-project/ResNet50.ipynb
 ```
 
 ### Open and Run `ResNet50.ipynb`
