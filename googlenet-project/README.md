@@ -28,8 +28,8 @@ This repository contains an implementation of the **GoogleNet** architecture, a 
 ### Clone the Repository
 To get started, clone this repository using the following command:
 ```bash
-git clone https://github.com/Amirreza-Bazmi/googlenet-project.git
-cd googlenet-project/GoogleNet.ipynb
+git clone https://github.com/Amirreza-Bazmi/Deep-Learning-Projects.git
+cd Deep-Learning-Projects/googlenet-project
 ```
 
 ### Open and Run `GoogleNet.ipynb`
