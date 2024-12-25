@@ -29,8 +29,8 @@ This repository contains an implementation of the **ResNet50** architecture, a d
 ### Clone the Repository
 To get started, clone this repository using the following command:
 ```bash
-git clone https://github.com/Amirreza-Bazmi/resnet50-project.git
-cd resnet50-project/ResNet50.ipynb
+git clone https://github.com/Amirreza-Bazmi/Deep-Learning-Projects.git
+cd Deep-Learning-Projects/resnet50-project
 ```
 
 ### Open and Run `ResNet50.ipynb`
