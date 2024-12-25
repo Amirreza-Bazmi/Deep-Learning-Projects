@@ -8,7 +8,8 @@ This repository is a collection of my deep learning projects, showcasing various
 
 - **Project 1**: [GoogleNet project](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/googlenet-project)
 - **Project 2**: [ResNet50 project](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/resnet50-project)
-- **Project 3**: [VGG19 project](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/vgg19-project)  
+- **Project 3**: [VGG19 project](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/vgg19-project)
+- **Project 4**: [LSTM Pooling Comparsion](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/LSTM%20Pooling%20Comparison) 
 
 
 ## 📖 Topics Covered
