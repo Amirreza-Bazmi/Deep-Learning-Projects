@@ -28,8 +28,8 @@ This repository contains an implementation of the **VGG19** architecture, a high
 ### Clone the Repository
 To get started, clone this repository using the following command:
 ```bash
-git clone https://github.com/Amirreza-Bazmi/vgg19-project.git
-cd vgg19-project/vgg_19.ipynb
+git clone https://github.com/Amirreza-Bazmi/Deep-Learning-Projects.git
+cd Deep-Learning-Projects/vgg19-project
 ```
 
 ### Open and Run `vgg_19.ipynb`
