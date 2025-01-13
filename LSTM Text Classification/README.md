@@ -42,3 +42,13 @@ To get started, clone the repository using:
 ```bash
 git clone https://github.com/Amirreza-Bazmi/Deep-Learning-Projects.git
 cd Deep-Learning-Projects/LSTM Text Classification
+```
+
+---
+
+## 📬 Contact
+
+For any questions, suggestions, or collaboration opportunities, feel free to contact me:
+
+- **📧 Email**: [bazmi.ce@gmail.com](mailto:bazmi.ce@gmail.com)
+- **🐙 GitHub**: [Amirreza-Bazmi](https://github.com/Amirreza-Bazmi)
