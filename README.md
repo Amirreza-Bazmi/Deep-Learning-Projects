@@ -9,13 +9,19 @@ This repository is a collection of my deep learning projects, showcasing various
 - **Project 1**: [GoogleNet project](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/googlenet-project)
 - **Project 2**: [ResNet50 project](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/resnet50-project)
 - **Project 3**: [VGG19 project](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/vgg19-project)
-- **Project 4**: [LSTM Pooling Comparsion](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/LSTM%20Pooling%20Comparison) 
+- **Project 4**: [LSTM Pooling Comparsion](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/LSTM%20Pooling%20Comparison)
+- **Project 5**: [LSTM Text Classification](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/LSTM%20Text%20Classification)
+- **Project 6**: [IMDB Movie Review Sentiment Analysis with RNN](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/IMDB%20Movie%20Review%20Sentiment%20Analysis%20with%20RNN)
+- **Project 7**: [CNN-RNN Text Classification](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/CNN-RNN%20Text%20Classification)
+- **Project 8**: [CNN Image Classifier CIFAR-10](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/CNN%20Image%20Classifier%20CIFAR-10)
+- **Project 9**: [Bitcoin Price Prediction using LSTM](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/Bitcoin%20Price%20Prediction%20using%20LSTM)
 
 
 ## 📖 Topics Covered
 
 - Convolutional Neural Networks (CNNs)
 - Recurrent Neural Networks (RNNs)
+- Long Short Term Memory (LSTM)
 - Hyperparameter Tuning
   
 ## 🚀 How to Use
