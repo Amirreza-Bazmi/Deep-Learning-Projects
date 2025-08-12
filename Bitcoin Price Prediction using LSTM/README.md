@@ -48,7 +48,7 @@ The plots below show the model's predictions against the actual prices for the t
 **(Here you can add screenshots of your plots)**
 
 *Actual vs. Predicted Prices (Test Set)*
-![Test Set Predictions]([path/to/your/test_plot.png](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/blob/main/Bitcoin%20Price%20Prediction%20using%20LSTM/predicted.png))
+![Test Set Predictions](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/blob/main/Bitcoin%20Price%20Prediction%20using%20LSTM/predicted.png)
 
 ---
 
