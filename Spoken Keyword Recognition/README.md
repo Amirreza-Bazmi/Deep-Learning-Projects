@@ -50,6 +50,8 @@ The model was successfully trained and evaluated on a held-out test set, demonst
 
 
 *Model Output*
+
+
 ![Training History](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/blob/main/Spoken%20Keyword%20Recognition/Screenshot%202025-08-13%20092910.png)
 
 ---
@@ -58,20 +60,9 @@ The model was successfully trained and evaluated on a held-out test set, demonst
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Amirreza-Bazmi/Your-Repo-Name.git](https://github.com/Amirreza-Bazmi/Your-Repo-Name.git)
-cd Your-Repo-Name/Your-Project-Folder
+git clone [https://github.com/Amirreza-Bazmi/Your-Repo-Name.git](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects.git)
+cd Deep-Learning-Projects/Spoken Keyword Recognition
 ```
-*(Remember to update `Your-Repo-Name` and `Your-Project-Folder`)*
-
-### 2. Install Dependencies
-Ensure you have the necessary libraries installed.
-```bash
-pip install tensorflow tensorflow-io numpy matplotlib seaborn
-```
-
-### 3. Run the Notebook
-Open and execute the `j9.ipynb` notebook. The Mini Speech Commands dataset will be downloaded automatically by the script.
-
 ---
 
 ## 📬 Contact
