@@ -50,7 +50,7 @@ The model was successfully trained and evaluated on a held-out test set, demonst
 
 
 *Model Output*
-![Training History](path/to/your/training_plot.png)
+![Training History](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/blob/main/Spoken%20Keyword%20Recognition/Screenshot%202025-08-13%20092910.png)
 
 ---
 
