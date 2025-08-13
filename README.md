@@ -15,6 +15,7 @@ This repository is a collection of my deep learning projects, showcasing various
 - **Project 7**: [CNN-RNN Text Classification](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/CNN-RNN%20Text%20Classification)
 - **Project 8**: [CNN Image Classifier CIFAR-10](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/CNN%20Image%20Classifier%20CIFAR-10)
 - **Project 9**: [Bitcoin Price Prediction using LSTM](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/Bitcoin%20Price%20Prediction%20using%20LSTM)
+- **Project 10**: [Spoken Keyword Recognition](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/Spoken%20Keyword%20Recognition)
 
 
 ## 📖 Topics Covered
