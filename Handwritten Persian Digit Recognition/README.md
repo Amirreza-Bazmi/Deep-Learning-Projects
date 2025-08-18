@@ -65,7 +65,14 @@ The project is divided into two main parts: model training and the GUI applicati
 
 The CNN model achieved a final **test accuracy of 99.15%** after 10 epochs of training, proving its effectiveness and robustness.
 
-![Test Set Predictions](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/blob/main/Bitcoin%20Price%20Prediction%20using%20LSTM/predicted.png)
+![Input 1:](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/blob/main/Handwritten%20Persian%20Digit%20Recognition/Results/input_1.png)
+
+![Output 1:](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/blob/main/Handwritten%20Persian%20Digit%20Recognition/Results/output_1.png)
+
+![Input 2:](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/blob/main/Handwritten%20Persian%20Digit%20Recognition/Results/input_2.png)
+
+![Output 2:](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/blob/main/Handwritten%20Persian%20Digit%20Recognition/Results/output_2.png)
+
 
 ---
 
