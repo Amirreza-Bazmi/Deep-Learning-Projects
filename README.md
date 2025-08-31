@@ -17,6 +17,7 @@ This repository is a collection of my deep learning projects, showcasing various
 - **Project 9**: [Bitcoin Price Prediction using LSTM](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/Bitcoin%20Price%20Prediction%20using%20LSTM)
 - **Project 10**: [Spoken Keyword Recognition](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/Spoken%20Keyword%20Recognition)
 - **Project 11**: [Handwritten Persian Digit Recognition](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/Handwritten%20Persian%20Digit%20Recognition)
+- **Project 12**: [Natural Language Inference (NLI) for Persian using ParsBERT](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects/tree/main/Natural%20Language%20Inference%20(NLI)%20for%20Persian%20using%20ParsBERT)
 
 ## 📖 Topics Covered
 
