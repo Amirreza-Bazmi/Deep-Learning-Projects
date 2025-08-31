@@ -25,6 +25,7 @@ This repository is a collection of my deep learning projects, showcasing various
 - Recurrent Neural Networks (RNNs)
 - Long Short Term Memory (LSTM)
 - Hyperparameter Tuning
+- Transformers
   
 ## 🚀 How to Use
 
