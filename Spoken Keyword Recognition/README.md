@@ -60,7 +60,7 @@ The model was successfully trained and evaluated on a held-out test set, demonst
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Amirreza-Bazmi/Your-Repo-Name.git](https://github.com/Amirreza-Bazmi/Deep-Learning-Projects.git)
+git clone https://github.com/Amirreza-Bazmi/Deep-Learning-Projects.git
 cd Deep-Learning-Projects/Spoken Keyword Recognition
 ```
 ---
